@@ -7,7 +7,7 @@ auth_token = os.environ.get("TWILIO_AUTH_TOKEN")
 twilio_number = os.environ.get("TWILIO_PHONE_NUMBER")
 
 # Número do destinatário
-to_number = "whatsapp:+5519997366483"
+to_number = "whatsapp:+551999999999"
 
 # Link do Google Forms de Check-in
 form_link = "https://forms.gle/1CVMr9kQhXD8WYME7"  # <- coloque aqui o seu link encurtado, se quiser
